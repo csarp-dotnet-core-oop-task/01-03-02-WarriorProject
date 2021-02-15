@@ -8,10 +8,10 @@ Munkája ellenőrzéseként használja a következő kódot:
 Position position = new Position(2,-1);
 position.ToConsole();
 Warrior warrior = new Warrior("Peter the Iron Man", position);
-warrior.toConsole();
-warrior.moveHorizontal(3);
-warrior.moveVertical(-2);
-warrior.toConsole();'''
+warrior.ToConsole();
+warrior.MoveHorizontal(3);
+warrior.MoveVertical(-2);
+warrior.ToConsole();'''
 ```
 
 A kód kimenete a következő kell legyen:    
