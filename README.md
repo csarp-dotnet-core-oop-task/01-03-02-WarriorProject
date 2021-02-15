@@ -15,6 +15,6 @@ warrior.toConsole();'''
 ```
 
 A kód kimenete a következő kell legyen:    
-(2,-1)
+(2,-1)    
 Peter the Iron Man, position (2,-1)    
 Peter the Iron Man, position (5,-3)    
