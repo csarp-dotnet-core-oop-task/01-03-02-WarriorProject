@@ -6,6 +6,7 @@ A fejlesztő csapat munkája után elkészült két osztály UML diagramja. Ön 
 Munkája ellenőrzéseként használja a következő kódot:   
 ```
 Position position = new Position(2,-1);
+position.ToConsole();
 Warrior warrior = new Warrior("Peter the Iron Man", position);
 warrior.toConsole();
 warrior.moveHorizontal(3);
@@ -14,5 +15,6 @@ warrior.toConsole();'''
 ```
 
 A kód kimenete a következő kell legyen:    
+(2,-1)
 Peter the Iron Man, position (2,-1)    
 Peter the Iron Man, position (5,-3)    
