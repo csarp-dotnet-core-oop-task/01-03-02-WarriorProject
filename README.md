@@ -1,5 +1,9 @@
 # 01-03-01-WarriorProject
-A fejlesztő csapat munkája után elkészült két osztály UML diagramja. Ön azt a feladatot kapta, hogy fejlessze ki az osztályokat!    
+A fejlesztő csapat munkája után elkészült két osztály UML diagramja. Ön azt a feladatot kapta, hogy fejlessze ki az osztályokat!
+
+
+A Position osztályba az adattagok private elérhetőségük legyenek! Ekkor a feladat megoldása, csak akkor lehetséges, ha a Position osztályt még két metódussal továbbfejleszti! A feladata, hogy jöjjön rá, hogyan kell ezt megoldani!
+
 
 ![alt text](https://github.com/csarp-dotnet-core-oop-feladatok/01-03-01-WarriorProject/blob/main/Warrior.png "UML diagram")    
 
