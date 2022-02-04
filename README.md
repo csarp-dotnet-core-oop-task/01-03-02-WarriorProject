@@ -5,6 +5,9 @@ A fejlesztő csapat munkája után elkészült két osztály UML diagramja. Ön 
 A Position osztályba az adattagok private elérhetőségük legyenek! Ekkor a feladat megoldása, csak akkor lehetséges, ha a Position osztályt még két metódussal továbbfejleszti! A feladata, hogy jöjjön rá, hogyan kell ezt megoldani!
 
 
+Minden kiírást a ToConsole metódusokban valósítson meg!
+
+
 ![alt text](https://github.com/csarp-dotnet-core-oop-feladatok/01-03-01-WarriorProject/blob/main/Warrior.png "UML diagram")    
 
 Munkája ellenőrzéseként használja a következő kódot:   
