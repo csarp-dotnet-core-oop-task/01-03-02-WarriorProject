@@ -18,7 +18,7 @@ Warrior warrior = new Warrior("Peter the Iron Man", position);
 warrior.ToConsole();
 warrior.MoveHorizontal(3);
 warrior.MoveVertical(-2);
-warrior.ToConsole();'''
+warrior.ToConsole();
 ```
 
 A kód kimenete a következő kell legyen:    
