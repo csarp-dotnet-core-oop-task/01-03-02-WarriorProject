@@ -8,7 +8,7 @@ A Position osztályba az adattagok private elérhetőségük legyenek! Ekkor a f
 Minden kiírást a ToConsole metódusokban valósítson meg!
 
 
-![alt text](https://github.com/csarp-dotnet-core-oop-feladatok/01-03-01-WarriorProject/blob/main/Warrior.png "UML diagram")    
+![alt text](https://github.com/csarp-dotnet-core-oop-task/01-03-02-WarriorProject/blob/main/Warrior.png)    
 
 Munkája ellenőrzéseként használja a következő kódot:   
 ```
